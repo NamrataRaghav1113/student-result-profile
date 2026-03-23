@@ -12,7 +12,6 @@ then calculates **total marks, percentage, and grade**.
 - Calculates total marks
 - Calculates percentage
 - Displays grade based on percentage
-
 ---
 
 ## 🧮 Grade Criteria
